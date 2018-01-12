@@ -12,17 +12,16 @@ AEmo is an web-based application designed to help ease the frustration revolved 
 ![Homescreen](spaceholder.jpg)
 
 ## Technologies/Tools Used
-⋅*JavaScript
-⋅*jQuery
-⋅*bootstrap
-⋅*AJAX
-⋅*Node.js
-⋅*Express.js
-⋅*Handlebars.js
-⋅*Heroku
-⋅*MySQL
-⋅*Sequel Pro
-⋅*AngularJs
+*JavaScript
+*jQuery
+*bootstrap
+*AJAX
+*Node.js
+*Express.js
+*Handlebars.js
+*Heroku
+*MySQL
+*Sequel Pro
 
 ## npm Modules Used
 ⋅*express
@@ -30,6 +29,10 @@ AEmo is an web-based application designed to help ease the frustration revolved 
 ⋅*mysql
 ⋅*handlebars
 
+## Setup for Local Machine
+Create database: aemo
+Run application using npm start 
 
 ### Moving forward:
 We'd like to add google voice or other voice detection technologies to get command from the client.
+

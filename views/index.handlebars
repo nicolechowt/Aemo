@@ -197,7 +197,7 @@
                         emotion: emotionState
                     }, function(data){
                         console.log("data " + data.action_taken_type);
-                        $("#command").html("Let's do this! " + data.action_taken_type + "And it will be..." + data.action_taken_subtype);
+                        $("#command").html("Let's do this! Action Taken: " + data.action_taken_type + " Action Sub Type: " + data.action_taken_subtype);
                     // console.log("data coming back " + JSON.stringify(data)); // {"redirect":"/"}
                         // window.location = data.redirect;
                     }).catch(function(err) {
